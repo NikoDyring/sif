@@ -1,0 +1,3 @@
+# Master keys should not be comitted
+/sifadmin/config/master.key filter=sensitive
+/sifweb/config/maaster.key filter=sensitive
